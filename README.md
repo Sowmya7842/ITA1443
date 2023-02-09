@@ -7,4 +7,4 @@ STEP 2:
 STEP:3
 ![image](https://user-images.githubusercontent.com/113325376/217538682-3f58da4c-344b-48b1-ad5a-dd61d5cc4900.png)
 STEP 4:
-![image](https://user-images.githubusercontent.com/113325376/217538741-02b52b99-47ad-4232-837c-a3f1df39fbee.png
+![image](https://user-images.githubusercontent.com/113325376/217538741-02b52b99-47ad-4232-837c-a3f1df39fbee.png)
