@@ -1,5 +1,6 @@
 
 EXPERIMENT 1:
+
 STEP 1:
 ![image](https://user-images.githubusercontent.com/113325376/218004275-ccc3f860-efab-4d89-bc4f-29a24afe0df1.png)
 STEP 2:
@@ -8,6 +9,13 @@ STEP 3:
 ![image](https://user-images.githubusercontent.com/113325376/218004505-d6a83d66-8fb4-4f2a-ae98-699612d05482.png)
 STEP 4:
 ![image](https://user-images.githubusercontent.com/113325376/218004639-a397db0f-d76a-4f3a-880a-5f3031015bd8.png)
+
+
+
+EXPERIMENT 2:
+
+STEP 1:
+![Screenshot (124)](https://user-images.githubusercontent.com/113325376/218014921-cf3ea801-08d2-41e5-be88-81486e4b51a7.png)
 
 
 
