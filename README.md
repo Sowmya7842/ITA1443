@@ -45,6 +45,11 @@ STEP 9:
 
 
 
+EXPERIMENT 4:
+STEP 1:
+![image](https://user-images.githubusercontent.com/113325376/218015236-cf24ac4f-215c-4283-9b2f-0dfe0a65e1c5.png)
+
+
 
 
 EXPERIMENT 5:INFORMATION GATHERING USING THE HARVESTER
